@@ -1,0 +1,47 @@
+dummy
+
+insertar en merchant comunnications - el suscriber key es el contact id
+
+
+
+Briegieng es un id custom, se tiene que buscar
+campaingId tambien - pendiente
+click - in_click 0 false - true 1
+
+communication type - queda pendiente
+
+creativity - pedote
+
+date_sent - launch date_sent
+in_open - in_open
+subject to - activity name
+
+comprobasion completa del registro
+
+
+
+revisar mapeo, pedirle sque generen un id unico en el envio, que identifique el envio
+
+
+
+Channel - falta
+Communication type 
+ 
+Launch Date - 
+Faltan fechas por incluir dentro de Merchant communication?
+Satisfaccion
+Subject to es - activity Name?
+
+
+Briefieng
+clickContact
+Launch date_sentOpen
+Subject to
+
+identificador de envio 
+
+
+
+
+jorge herrero
+
